@@ -1,0 +1,3 @@
+I am learning Git.
+
+To initialize git tracking we use "git init"
